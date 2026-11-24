@@ -104,7 +104,7 @@ export default function Home() {
           </div>
 
           <p className="text-xs tracking-widest opacity-70">
-            © 2026 · ĐÔNG NGẠC GIA
+            © 2026 · ĐÔNG NGẠC
           </p>
         </footer>
 
